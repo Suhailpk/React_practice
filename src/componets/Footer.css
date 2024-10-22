@@ -1,0 +1,16 @@
+html, body {
+    height: 100%; /* Ensure the body takes the full height of the page */
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-section {
+    margin-top: auto; /* Pushes the footer to the bottom */
+    background-color: #f1f1f1; /* Optional: add background color */
+    text-align: center;
+    padding: 20px 0;
+}

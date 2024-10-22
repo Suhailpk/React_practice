@@ -1,0 +1,11 @@
+.header-item{
+    display: flex;
+    align-content: space-between;
+    align-content: space-between;
+    padding-top: 2rem;
+    background-color: blue;
+    color: white;
+    padding-bottom: 2rem;
+    gap: 20px;
+    padding-left: 2rem;
+}

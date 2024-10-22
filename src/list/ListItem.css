@@ -1,0 +1,23 @@
+.list-section{
+    padding-top: 13px;
+}
+
+.list-descr{
+    color: gray;
+    font-style: italic;
+    padding-left: 0px;
+    padding-bottom: 13px;
+}
+
+.delete-section{
+    padding-left: 1832px;
+}
+
+.delete-button{
+    border-color: red;
+    font-size: 17px;
+    background: black;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+}

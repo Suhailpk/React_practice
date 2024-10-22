@@ -1,0 +1,20 @@
+[
+    {   
+        "id":1,
+        "title" : "Iphone 16 Pro Max",
+        "descr" : "256 GB Black",
+        "isStock" : true
+    },
+    {   
+        "id":2,
+        "title" : "Samsung S24 Ultra",
+        "descr" : "256 GB White",
+        "isStock" : false
+    },
+    {   
+        "id":3,
+        "title" : "Pixel 8 Pro",
+        "descr" : "128 GB Mint Green",
+        "isStock" : true
+    }
+]
