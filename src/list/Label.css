@@ -5,3 +5,18 @@
     color: white;
     background-color: green;
 }
+
+.tooltip{
+    position: absolute;
+    left: 0;
+    background: white;
+    border-radius: 2px;
+    padding: 5px 10px;
+    box-shadow: 2px 3px 10px 0px #ababab;
+    font-size: 12px;
+
+}
+
+.hide-tooltip{
+    visibility: hidden;
+}
